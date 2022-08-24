@@ -700,6 +700,7 @@ let needSetup = false;
                 bean.grpcBody = monitor.grpcBody;
                 bean.grpcMetadata = monitor.grpcMetadata;
                 bean.grpcEnableTls = monitor.grpcEnableTls;
+                bean.grpcServiceName = monitor.grpcServiceName;
                 bean.radiusUsername = monitor.radiusUsername;
                 bean.radiusPassword = monitor.radiusPassword;
                 bean.radiusCalledStationId = monitor.radiusCalledStationId;
